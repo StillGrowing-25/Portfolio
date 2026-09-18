@@ -1,0 +1,117 @@
+[
+  {
+    "id": "medikiosk",
+    "title": "MediKiosk — AI-Powered Pre-Consultation Assistant",
+    "description": "An AI-powered healthcare pre-consultation system that collects, organizes, and summarizes patient information before doctor consultation with voice-assisted workflow.",
+    "tags": [
+      "React",
+      "Django",
+      "FastAPI",
+      "PostgreSQL",
+      "LLaMA 3.2",
+      "MedGemma",
+      "Sarvam",
+      "FHIR"
+    ],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/StillGrowing-25",
+    "highlights": [
+      "Voice-assisted workflow covering symptoms, medical history, medications, and lifestyle",
+      "Integrated AYUSH Dashavidha Pariksha, medical documents analysis, and red flag detection",
+      "Built with React + Django + FastAPI microservices and ABDM/FHIR health data standards",
+      "Participated in Smart India Hackathon 2026 with this solution"
+    ]
+  },
+  {
+    "id": "shopease",
+    "title": "ShopEase — E-Commerce Platform",
+    "description": "A responsive e-commerce platform with customer and seller modules, authentication, product browsing, wishlist, cart, and order management powered by Angular.",
+    "tags": [
+      "Angular",
+      "TypeScript",
+      "Bootstrap",
+      "HTML",
+      "CSS",
+      "JSON Server"
+    ],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/StillGrowing-25",
+    "highlights": [
+      "Dual customer & seller module architecture with role-based authentication",
+      "Built reusable Angular components and services for scalable UI architecture",
+      "Cart, wishlist, product browsing, and order management with JSON Server data layer",
+      "Fully responsive UI with Bootstrap + custom CSS design system"
+    ]
+  },
+  {
+    "id": "music-mood",
+    "title": "Multimodal Music Mood Classifier",
+    "description": "A machine learning system to classify music by emotional mood using multimodal features, including preprocessing, feature extraction, model training, and evaluation.",
+    "tags": [
+      "Python",
+      "Machine Learning",
+      "Audio Processing",
+      "Deep Learning"
+    ],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/StillGrowing-25",
+    "highlights": [
+      "Multimodal feature extraction combining audio spectrogram and metadata inputs",
+      "Implemented preprocessing pipeline with feature normalization and augmentation",
+      "Trained and evaluated multiple ML classification models for mood category detection"
+    ]
+  },
+  {
+    "id": "job-aggregator",
+    "title": "Job Vacancy Aggregator",
+    "description": "A platform that aggregates job listings from multiple portals into a unified, user-friendly interface with data processing and storage capabilities.",
+    "tags": [
+      "Python",
+      "Flask",
+      "Pandas",
+      "SQLite",
+      "Web Scraping"
+    ],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/StillGrowing-25",
+    "highlights": [
+      "Aggregates listings from multiple job portals into a single unified dashboard",
+      "Data processing pipeline with Pandas for normalization and deduplication",
+      "Flask REST backend with SQLite/MySQL storage and effective search/filter features"
+    ]
+  },
+  {
+    "id": "inventory",
+    "title": "Smart Inventory Management System",
+    "description": "An inventory management application using object-oriented programming for product tracking, stock management, and record maintenance.",
+    "tags": [
+      "Java",
+      "OOP",
+      "DBMS"
+    ],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/StillGrowing-25",
+    "highlights": [
+      "OOP-driven architecture with clean separation of product, stock, and record layers",
+      "Real-time stock tracking with low-stock alerts and reporting module",
+      "Developed as an academic deep-dive into design patterns and Java OOP principles"
+    ]
+  },
+  {
+    "id": "finance-tracker",
+    "title": "Finance Tracker",
+    "description": "A personal finance management application to track income, expenses, and account balances with dynamic transaction management and real-time balance calculations.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/StillGrowing-25",
+    "highlights": [
+      "Dynamic transaction management with real-time balance calculations",
+      "Visual breakdown of income vs. expenses with category grouping",
+      "Persistent local storage for offline-first personal finance tracking"
+    ]
+  }
+]

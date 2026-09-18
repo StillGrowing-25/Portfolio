@@ -1,0 +1,35 @@
+body{
+    background-color: #ffffff;
+}
+h1{
+    color:#e66993;
+    font-family:'Dancing Script', cursive;
+    text-decoration:double;
+    text-align: left;
+    padding-left:20px;
+    letter-spacing: 0.1cm;
+}
+#insta{
+    text-decoration: none;
+}
+
+
+p {
+  color: #ffffff;
+}
+p {
+  font-size: 1.05rem; /* slightly bigger */
+  line-height: 1.7;   /* improves readability */
+}
+
+body {
+  background-color: #0f172a; /* dark base */
+  color: #ffffff;
+}
+div {
+  color: #ffffff;
+}
+div {
+  font-size: 1.05rem; /* slightly bigger */
+  line-height: 1.7;   /* improves readability */
+}
