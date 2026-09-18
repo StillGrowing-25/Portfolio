@@ -166,7 +166,7 @@ export default function HeroSection({ isDarkMode, stats }) {
         <div className="spotlight-card" style={{ padding: '12px', maxWidth: '380px', width: '100%' }}>
           <div style={{ position: 'relative', overflow: 'hidden', borderRadius: '8px' }}>
             <img
-              src="requirements/pic.jpeg"
+              src="/requirements/pic.jpeg"
               alt="Aarzoo Gupta"
               style={{
                 width: '100%',
